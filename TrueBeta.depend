@@ -1,0 +1,303 @@
+# depslib dependency file v1.0
+1272992880 source:c:\users\michael\documents\uni work\year 2\computer games programming\c++\truebeta\main.cpp
+	<allegro.h>
+	<winalleg.h>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+	<vector>
+	"Being.h"
+	"Worm.h"
+	"Player.h"
+	"Maze.h"
+	"Egg.h"
+
+1272408058 c:\users\michael\documents\uni work\year 2\computer games programming\c++\truebeta\being.h
+	<allegro.h>
+	<winalleg.h>
+	<windows.h>
+	<iostream>
+	<string>
+	<vector>
+	"Maze.h"
+
+1272992880 c:\users\michael\documents\uni work\year 2\computer games programming\c++\truebeta\maze.h
+	<allegro.h>
+	<winalleg.h>
+	<windows.h>
+	<iostream>
+	<string>
+	<vector>
+
+1272408546 c:\users\michael\documents\uni work\year 2\computer games programming\c++\truebeta\worm.h
+	<allegro.h>
+	<iostream>
+	<string>
+	"Being.h"
+	"Player.h"
+
+1270383648 c:\users\michael\documents\uni work\year 2\computer games programming\c++\truebeta\player.h
+	<allegro.h>
+	<iostream>
+	<string>
+	"Being.h"
+
+1272992889 source:c:\users\michael\documents\uni work\year 2\computer games programming\c++\truebeta\maze.cpp
+	"Maze.h"
+
+1270819884 source:c:\users\michael\documents\uni work\year 2\computer games programming\c++\truebeta\player.cpp
+	"Player.h"
+
+1272408546 source:c:\users\michael\documents\uni work\year 2\computer games programming\c++\truebeta\worm.cpp
+	"Worm.h"
+
+1272614507 source:c:\users\michael\documents\uni work\year 2\computer games programming\c++\truebeta\being.cpp
+	"Being.h"
+
+1269969336 source:f:\truebeta\maze.cpp
+	"Maze.h"
+
+1269968704 f:\truebeta\maze.h
+	<allegro.h>
+	<winalleg.h>
+	<windows.h>
+	<iostream>
+	<string>
+	<vector>
+
+1269969064 source:f:\truebeta\player.cpp
+	"Player.h"
+
+1269969064 f:\truebeta\player.h
+	<allegro.h>
+	<iostream>
+	<string>
+	"Being.h"
+
+1269968786 f:\truebeta\being.h
+	<allegro.h>
+	<winalleg.h>
+	<windows.h>
+	<iostream>
+	<string>
+	<vector>
+	"Maze.h"
+
+1269969134 source:f:\truebeta\worm.cpp
+	"Worm.h"
+
+1269969136 f:\truebeta\worm.h
+	<allegro.h>
+	<iostream>
+	<string>
+	"Being.h"
+	"Player.h"
+
+1269968904 source:f:\truebeta\being.cpp
+	"Being.h"
+
+1270820005 source:c:\users\michael\documents\uni work\year 2\computer games programming\c++\truebeta\egg.cpp
+	"Egg.h"
+
+1271087408 c:\users\michael\documents\uni work\year 2\computer games programming\c++\truebeta\egg.h
+	<allegro.h>
+	<iostream>
+	<string>
+	"Being.h"
+	"Player.h"
+
+1270820005 source:c:\users\michael\desktop\truebeta\egg.cpp
+	"Egg.h"
+
+1271087408 c:\users\michael\desktop\truebeta\egg.h
+	<allegro.h>
+	<iostream>
+	<string>
+	"Being.h"
+	"Player.h"
+
+1270819761 c:\users\michael\desktop\truebeta\being.h
+	<allegro.h>
+	<winalleg.h>
+	<windows.h>
+	<iostream>
+	<string>
+	<vector>
+	"Maze.h"
+
+1271087408 c:\users\michael\desktop\truebeta\maze.h
+	<allegro.h>
+	<winalleg.h>
+	<windows.h>
+	<iostream>
+	<string>
+	<vector>
+
+1270383648 c:\users\michael\desktop\truebeta\player.h
+	<allegro.h>
+	<iostream>
+	<string>
+	"Being.h"
+
+1271157025 source:c:\users\michael\desktop\truebeta\main.cpp
+	<allegro.h>
+	<winalleg.h>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+	<vector>
+	"Being.h"
+	"Worm.h"
+	"Player.h"
+	"Maze.h"
+	"Egg.h"
+
+1271087408 c:\users\michael\desktop\truebeta\worm.h
+	<allegro.h>
+	<iostream>
+	<string>
+	"Being.h"
+	"Player.h"
+
+1270836184 source:c:\users\michael\desktop\truebeta\maze.cpp
+	"Maze.h"
+
+1270819884 source:c:\users\michael\desktop\truebeta\player.cpp
+	"Player.h"
+
+1271087742 source:c:\users\michael\desktop\truebeta\worm.cpp
+	"Worm.h"
+
+1270830314 source:c:\users\michael\desktop\truebeta\being.cpp
+	"Being.h"
+
+1270816405 source:c:\documents\uni work\year 2\computer games programming\c++\truebeta\egg.cpp
+	"Egg.h"
+
+1271083808 c:\documents\uni work\year 2\computer games programming\c++\truebeta\egg.h
+	<allegro.h>
+	<iostream>
+	<string>
+	"Being.h"
+	"Player.h"
+
+1322171136 c:\documents\uni work\year 2\computer games programming\c++\truebeta\being.h
+	<allegro.h>
+	<winalleg.h>
+	<windows.h>
+	<iostream>
+	<string>
+	<vector>
+	"Maze.h"
+
+1272989280 c:\documents\uni work\year 2\computer games programming\c++\truebeta\maze.h
+	<allegro.h>
+	<winalleg.h>
+	<windows.h>
+	<iostream>
+	<string>
+	<vector>
+
+1270380048 c:\documents\uni work\year 2\computer games programming\c++\truebeta\player.h
+	<allegro.h>
+	<iostream>
+	<string>
+	"Being.h"
+
+1322170378 source:c:\documents\uni work\year 2\computer games programming\c++\truebeta\main.cpp
+	<allegro.h>
+	<winalleg.h>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+	<vector>
+	"Being.h"
+	"Worm.h"
+	"Player.h"
+	"Maze.h"
+	"Egg.h"
+
+1272404946 c:\documents\uni work\year 2\computer games programming\c++\truebeta\worm.h
+	<allegro.h>
+	<iostream>
+	<string>
+	"Being.h"
+	"Player.h"
+
+1272989289 source:c:\documents\uni work\year 2\computer games programming\c++\truebeta\maze.cpp
+	"Maze.h"
+
+1270816284 source:c:\documents\uni work\year 2\computer games programming\c++\truebeta\player.cpp
+	"Player.h"
+
+1272404946 source:c:\documents\uni work\year 2\computer games programming\c++\truebeta\worm.cpp
+	"Worm.h"
+
+1272610907 source:c:\documents\uni work\year 2\computer games programming\c++\truebeta\being.cpp
+	"Being.h"
+
+1272610907 source:e:\documents\uni work\year 2\computer games programming\c++\truebeta\being.cpp
+	"Being.h"
+
+1322171136 e:\documents\uni work\year 2\computer games programming\c++\truebeta\being.h
+	<allegro.h>
+	<winalleg.h>
+	<windows.h>
+	<iostream>
+	<string>
+	<vector>
+	"Maze.h"
+
+1272989280 e:\documents\uni work\year 2\computer games programming\c++\truebeta\maze.h
+	<allegro.h>
+	<winalleg.h>
+	<windows.h>
+	<iostream>
+	<string>
+	<vector>
+
+1270816405 source:e:\documents\uni work\year 2\computer games programming\c++\truebeta\egg.cpp
+	"Egg.h"
+
+1271083808 e:\documents\uni work\year 2\computer games programming\c++\truebeta\egg.h
+	<allegro.h>
+	<iostream>
+	<string>
+	"Being.h"
+	"Player.h"
+
+1270380048 e:\documents\uni work\year 2\computer games programming\c++\truebeta\player.h
+	<allegro.h>
+	<iostream>
+	<string>
+	"Being.h"
+
+1322170378 source:e:\documents\uni work\year 2\computer games programming\c++\truebeta\main.cpp
+	<allegro.h>
+	<winalleg.h>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+	<vector>
+	"Being.h"
+	"Worm.h"
+	"Player.h"
+	"Maze.h"
+	"Egg.h"
+
+1272404946 e:\documents\uni work\year 2\computer games programming\c++\truebeta\worm.h
+	<allegro.h>
+	<iostream>
+	<string>
+	"Being.h"
+	"Player.h"
+
+1272989289 source:e:\documents\uni work\year 2\computer games programming\c++\truebeta\maze.cpp
+	"Maze.h"
+
+1270816284 source:e:\documents\uni work\year 2\computer games programming\c++\truebeta\player.cpp
+	"Player.h"
+
+1272404946 source:e:\documents\uni work\year 2\computer games programming\c++\truebeta\worm.cpp
+	"Worm.h"
+
